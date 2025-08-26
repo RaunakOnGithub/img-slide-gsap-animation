@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![GSAP Cinematic Scroll [![file-00000000bccc61f6bc33bb90e6d34bc3.png](https://i.postimg.cc/x1dBm3YX/file-00000000bccc61f6bc33bb90e6d34bc3.png)](https://postimg.cc/56ZPdvXJ)
+[GSAP Cinematic Scroll [![file-00000000bccc61f6bc33bb90e6d34bc3.png](https://i.postimg.cc/x1dBm3YX/file-00000000bccc61f6bc33bb90e6d34bc3.png)](https://postimg.cc/56ZPdvXJ)
 
 # 🌌 GSAP Scroll Animation – Mythical Image Slider  
 
