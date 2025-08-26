@@ -1,1 +1,1 @@
-# mg-slide-gsap-animation
+# img-slide-gsap-animation
