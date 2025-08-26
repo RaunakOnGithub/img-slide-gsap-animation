@@ -18,12 +18,6 @@ Smooth animations and immersive transitions — all in one.
 
 ---
 
-## 🖼 Preview
-![Preview](https://i.ibb.co/qmXKfjg/scroll-gsap.gif)  
-*(scroll to reveal gods and animations)*  
-
----
-
 ## 🚀 Live Demo
 👉 **[Click here to experience it live](https://raunakongithub.github.io/img-slide-gsap-animation/)**  
 
