@@ -18,7 +18,8 @@ Smooth animations and immersive transitions — all in one.
 ---
 
 ## 🚀 Live Demo
-👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://raunakongithub.github.io/img-slide-gsap-animation/)  
+👉  Click here to live demo 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://raunakongithub.github.io/img-slide-gsap-animation/)  
  
 
 ---
