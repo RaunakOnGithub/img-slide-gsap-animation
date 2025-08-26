@@ -3,7 +3,6 @@
 
 # 🌌 GSAP Scroll Animation – Mythical Image Slider  
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://raunakongithub.github.io/img-slide-gsap-animation/)  
 
 Experience a **cinematic scrolling journey** powered by **GSAP + ScrollTrigger + Lenis**.  
 Smooth animations and immersive transitions — all in one.  
@@ -19,7 +18,8 @@ Smooth animations and immersive transitions — all in one.
 ---
 
 ## 🚀 Live Demo
-👉 **[Click here to experience it live](https://raunakongithub.github.io/img-slide-gsap-animation/)**  
+👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://raunakongithub.github.io/img-slide-gsap-animation/)  
+ 
 
 ---
 
