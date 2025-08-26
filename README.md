@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![GSAP Cinematic Scroll Animation](https://i.ibb.co/9c7c6C1/gsap-banner.png)
+![GSAP Cinematic Scroll Animation](https://ibb.co/WZNS9YM)
 
 # 🌌 GSAP Scroll Animation – Mythical Image Slider  
 
